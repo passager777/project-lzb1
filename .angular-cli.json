@@ -1,12 +1,12 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "project-lzb1"
+    "name": "angular-tour-of-heroes"
   },
   "apps": [
     {
       "root": "src",
-      "outDir": "distlzb",
+      "outDir": "dist",
       "assets": [
         "assets",
         "favicon.ico"
